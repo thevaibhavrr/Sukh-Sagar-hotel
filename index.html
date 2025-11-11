@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hotel Sukh Sager - Authentic Indian Cuisine</title>
+    <style>
+        /* Reset and Base Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        /* Header Styles */
+        header {
+            background: linear-gradient(135deg, #8B4513, #D2691E);
+            color: white;
+            padding: 1rem 0;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 20px;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+        }
+
+        .logo h1 {
+            font-size: 1.8rem;
+            margin-left: 10px;
+            font-weight: 600;
+        }
+
+        .logo-icon {
+            font-size: 2rem;
+        }
+
+        nav ul {
+            display: flex;
+            list-style: none;
+        }
+
+        nav ul li {
+            margin-left: 20px;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+
+        nav ul li a:hover {
+            color: #FFD700;
+        }
+
+        /* Hero Section */
+        .hero {
+            height: 500px;
+            background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: white;
+            padding: 0 20px;
+        }
+
+        .hero-content h2 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+
+        .hero-content p {
+            font-size: 1.2rem;
+            max-width: 600px;
+            margin: 0 auto 30px;
+        }
+
+        .btn {
+            display: inline-block;
+            background-color: #D2691E;
+            color: white;
+            padding: 12px 30px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: background-color 0.3s;
+        }
+
+        .btn:hover {
+            background-color: #8B4513;
+        }
+
+        /* JSON Loader Section */
+        .json-loader {
+            background-color: #f5f5f5;
+            padding: 30px 0;
+            text-align: center;
+        }
+
+        .json-loader-container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .json-loader h3 {
+            color: #8B4513;
+            margin-bottom: 20px;
+        }
+
+        .json-input-container {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .json-input {
+            flex: 1;
+            min-width: 300px;
+            padding: 10px 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 1rem;
+        }
+
+        .json-status {
+            margin-top: 10px;
+            font-weight: 500;
+        }
+
+        .json-status.success {
+            color: green;
+        }
+
+        .json-status.error {
+            color: red;
+        }
+
+        /* Menu Section */
+        .menu-section {
+            max-width: 1200px;
+            margin: 50px auto;
+            padding: 0 20px;
+        }
+
+        .section-title {
+            text-align: center;
+            margin-bottom: 40px;
+            position: relative;
+        }
+
+        .section-title h2 {
+            font-size: 2.5rem;
+            color: #8B4513;
+            display: inline-block;
+            padding-bottom: 10px;
+        }
+
+        .section-title h2::after {
+            content: '';
+            position: absolute;
+            width: 100px;
+            height: 3px;
+            background-color: #D2691E;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        .category-filters {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-bottom: 30px;
+            gap: 10px;
+        }
+
+        .category-btn {
+            background-color: #f1f1f1;
+            border: none;
+            padding: 8px 20px;
+            border-radius: 30px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: 500;
+        }
+
+        .category-btn.active, .category-btn:hover {
+            background-color: #D2691E;
+            color: white;
+        }
+
+        .menu-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 30px;
+        }
+
+        .menu-item {
+            background-color: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s;
+        }
+
+        .menu-item:hover {
+            transform: translateY(-10px);
+        }
+
+        .menu-item-image {
+            height: 200px;
+            overflow: hidden;
+        }
+
+        .menu-item-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.5s;
+        }
+
+        .menu-item:hover .menu-item-image img {
+            transform: scale(1.1);
+        }
+
+        .menu-item-content {
+            padding: 20px;
+        }
+
+        .menu-item-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 10px;
+        }
+
+        .menu-item-name {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #333;
+        }
+
+        .menu-item-price {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #D2691E;
+        }
+
+        .menu-item-category {
+            display: inline-block;
+            background-color: #f1f1f1;
+            padding: 3px 10px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            margin-bottom: 10px;
+            color: #666;
+        }
+
+        .menu-item-details {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.9rem;
+            color: #666;
+            margin-top: 10px;
+        }
+
+        .veg-indicator {
+            width: 15px;
+            height: 15px;
+            border-radius: 50%;
+            background-color: green;
+        }
+
+        .non-veg-indicator {
+            width: 15px;
+            height: 15px;
+            border-radius: 50%;
+            background-color: red;
+        }
+
+        /* Location Section */
+        .location-section {
+            max-width: 1200px;
+            margin: 50px auto;
+            padding: 0 20px;
+        }
+
+        .location-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            margin-top: 30px;
+        }
+
+        .location-info {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .location-info h3 {
+            color: #8B4513;
+            margin-bottom: 20px;
+            font-size: 1.5rem;
+        }
+
+        .location-details {
+            margin-bottom: 20px;
+        }
+
+        .location-detail {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .location-detail i {
+            margin-right: 10px;
+            color: #D2691E;
+            width: 20px;
+            text-align: center;
+        }
+
+        .map-container {
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .map-container iframe {
+            width: 100%;
+            height: 400px;
+            border: none;
+        }
+
+        /* Footer */
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 50px 0 20px;
+        }
+
+        .footer-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 40px;
+            padding: 0 20px;
+        }
+
+        .footer-column h3 {
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+            color: #D2691E;
+        }
+
+        .footer-column p, .footer-column a {
+            color: #ccc;
+            margin-bottom: 10px;
+            display: block;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+
+        .footer-column a:hover {
+            color: #D2691E;
+        }
+
+        .social-links {
+            display: flex;
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .social-links a {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 40px;
+            height: 40px;
+            background-color: #444;
+            border-radius: 50%;
+            transition: background-color 0.3s;
+        }
+
+        .social-links a:hover {
+            background-color: #D2691E;
+        }
+
+        .copyright {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #444;
+            color: #999;
+            font-size: 0.9rem;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .header-container {
+                flex-direction: column;
+            }
+
+            nav ul {
+                margin-top: 15px;
+            }
+
+            .hero-content h2 {
+                font-size: 2rem;
+            }
+
+            .location-container {
+                grid-template-columns: 1fr;
+            }
+
+            .menu-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .json-input-container {
+                flex-direction: column;
+            }
+
+            .json-input {
+                min-width: auto;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="header-container">
+            <div class="logo">
+                <span class="logo-icon">🏨</span>
+                <h1>Hotel Sukh Sager</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#menu">Menu</a></li>
+                    <li><a href="#location">Location</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <div class="hero-content">
+            <h2>Authentic Indian Cuisine</h2>
+            <p>Experience the rich flavors and aromatic spices of traditional Indian dishes at Hotel Sukh Sager</p>
+            <a href="#menu" class="btn">View Our Menu</a>
+        </div>
+    </section>
+
+    <!-- JSON Loader Section -->
+    <section class="json-loader">
+        <div class="json-loader-container">
+            <h3>Menu Data Loading</h3>
+            <p class="json-status" id="json-status">Loading menu data...</p>
+        </div>
+    </section>
+
+    <!-- Menu Section -->
+    <section class="menu-section" id="menu">
+        <div class="section-title">
+            <h2>Our Menu</h2>
+        </div>
+
+        <!-- Category Filters -->
+        <div class="category-filters">
+            <button class="category-btn active" data-category="all">All Items</button>
+            <button class="category-btn" data-category="दाल">दाल (Lentils)</button>
+            <button class="category-btn" data-category="पनीर">पनीर (Paneer)</button>
+            <button class="category-btn" data-category="रोटी">रोटी (Bread)</button>
+            <button class="category-btn" data-category="पराठा">पराठा (Paratha)</button>
+            <button class="category-btn" data-category="चावल">चावल (Rice)</button>
+            <button class="category-btn" data-category="सब्जी">सब्जी (Vegetables)</button>
+            <button class="category-btn" data-category="रायता">रायता (Raita)</button>
+            <button class="category-btn" data-category="सलाद">सलाद (Salad)</button>
+            <button class="category-btn" data-category="करी">करी (Curry)</button>
+            <button class="category-btn" data-category="पापड़">पापड़ (Papad)</button>
+        </div>
+
+        <!-- Menu Items Grid -->
+        <div class="menu-grid" id="menu-grid">
+            <div class="no-data-message">
+                <p>No menu data loaded. Please provide a JSON file URL above.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Location Section -->
+    <section class="location-section" id="location">
+        <div class="section-title">
+            <h2>Our Location</h2>
+        </div>
+        <div class="location-container">
+            <div class="location-info">
+                <h3>Visit Us</h3>
+                <div class="location-details">
+                    <div class="location-detail">
+                        <i>📍</i>
+                        <p>123 Restaurant Street, Food City, FC 12345</p>
+                    </div>
+                    <div class="location-detail">
+                        <i>📞</i>
+                        <p>+91 98765 43210</p>
+                    </div>
+                    <div class="location-detail">
+                        <i>🕒</i>
+                        <p>Open: 10:00 AM - 10:00 PM (Everyday)</p>
+                    </div>
+                    <div class="location-detail">
+                        <i>✉️</i>
+                        <p>info@hotelsukhsager.com</p>
+                    </div>
+                </div>
+                <p>We welcome you to experience our warm hospitality and authentic Indian flavors in a comfortable and inviting atmosphere.</p>
+            </div>
+            <div class="map-container">
+                <!-- Google Maps Embed -->
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.367247720578!2d77.20954531508226!3d28.61389098242321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce2daa9eb4d0b%3A0x717971125923e5d!2sIndia%20Gate%2C%20New%20Delhi%2C%20Delhi!5e0!3m2!1sen!2sin!4v1634567890123!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer id="contact">
+        <div class="footer-container">
+            <div class="footer-column">
+                <h3>Hotel Sukh Sager</h3>
+                <p>Experience the authentic taste of India with our traditional recipes passed down through generations.</p>
+                <div class="social-links">
+                    <a href="#"><i>📘</i></a>
+                    <a href="#"><i>📷</i></a>
+                    <a href="#"><i>🐦</i></a>
+                </div>
+            </div>
+            <div class="footer-column">
+                <h3>Quick Links</h3>
+                <a href="#home">Home</a>
+                <a href="#menu">Menu</a>
+                <a href="#location">Location</a>
+                <a href="#contact">Contact</a>
+            </div>
+            <div class="footer-column">
+                <h3>Contact Info</h3>
+                <p>📍 123 Restaurant Street, Food City</p>
+                <p>📞 +91 98765 43210</p>
+                <p>✉️ info@hotelsukhsager.com</p>
+            </div>
+            <div class="footer-column">
+                <h3>Opening Hours</h3>
+                <p>Monday - Sunday</p>
+                <p>10:00 AM - 10:00 PM</p>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>&copy; 2023 Hotel Sukh Sager. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        // Global variable to store menu data
+        let menuData = [];
+
+        // Function to display menu items
+        function displayMenuItems(items) {
+            const menuGrid = document.getElementById('menu-grid');
+            
+            if (!items || items.length === 0) {
+                menuGrid.innerHTML = '<div class="no-data-message"><p>No menu items to display. Please load JSON data first.</p></div>';
+                return;
+            }
+            
+            menuGrid.innerHTML = '';
+
+            items.forEach(item => {
+                const menuItem = document.createElement('div');
+                menuItem.className = 'menu-item';
+                
+                // Create spice level indicator
+                let spiceIndicator = '';
+                for (let i = 0; i < 5; i++) {
+                    if (i < item.spiceLevel) {
+                        spiceIndicator += '🌶️';
+                    } else {
+                        spiceIndicator += '○';
+                    }
+                }
+                
+                menuItem.innerHTML = `
+                    <div class="menu-item-image">
+                        <img src="${item.image}" alt="${item.name}" onerror="this.src='https://via.placeholder.com/300x200/cccccc/969696?text=Image+Not+Found'">
+                    </div>
+                    <div class="menu-item-content">
+                        <div class="menu-item-header">
+                            <h3 class="menu-item-name">${item.name}</h3>
+                            <span class="menu-item-price">₹${item.price}</span>
+                        </div>
+                        <span class="menu-item-category">${item.category}</span>
+                        <div class="menu-item-details">
+                            <span>${spiceIndicator}</span>
+                            <span>${item.preparationTime} mins</span>
+                            <span class="${item.isVeg ? 'veg-indicator' : 'non-veg-indicator'}"></span>
+                        </div>
+                    </div>
+                `;
+                
+                menuGrid.appendChild(menuItem);
+            });
+        }
+
+        // Function to filter menu by category
+        function filterMenuByCategory(category) {
+            if (category === 'all') {
+                displayMenuItems(menuData);
+            } else {
+                const filteredItems = menuData.filter(item => item.category === category);
+                displayMenuItems(filteredItems);
+            }
+        }
+
+        // Function to load external JSON
+        function loadExternalJSON(jsonUrl) {
+            const statusElement = document.getElementById('json-status');
+            statusElement.textContent = 'Loading JSON data...';
+            statusElement.className = 'json-status';
+            
+            fetch(jsonUrl)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    // Check if data is an array
+                    if (Array.isArray(data)) {
+                        menuData = data;
+                        statusElement.textContent = `Successfully loaded ${data.length} menu items!`;
+                        statusElement.className = 'json-status success';
+                        displayMenuItems(data);
+                        
+                        // Update category buttons based on loaded data
+                        updateCategoryFilters(data);
+                    } else {
+                        throw new Error('JSON data is not an array');
+                    }
+                })
+                .catch(error => {
+                    console.error('Error loading JSON:', error);
+                    statusElement.textContent = `Error loading JSON: ${error.message}`;
+                    statusElement.className = 'json-status error';
+                });
+        }
+
+        // Function to update category filters based on loaded data
+        function updateCategoryFilters(data) {
+            const categories = [...new Set(data.map(item => item.category))];
+            const filtersContainer = document.querySelector('.category-filters');
+            
+            // Keep the "All" button and remove others
+            const allButton = filtersContainer.querySelector('[data-category="all"]');
+            filtersContainer.innerHTML = '';
+            filtersContainer.appendChild(allButton);
+            
+            // Add category buttons for each unique category
+            categories.forEach(category => {
+                const button = document.createElement('button');
+                button.className = 'category-btn';
+                button.setAttribute('data-category', category);
+                button.textContent = category;
+                filtersContainer.appendChild(button);
+            });
+            
+            // Reattach event listeners
+            attachCategoryFilterListeners();
+        }
+
+        // Function to attach event listeners to category buttons
+        function attachCategoryFilterListeners() {
+            const categoryButtons = document.querySelectorAll('.category-btn');
+            categoryButtons.forEach(button => {
+                button.addEventListener('click', function() {
+                    // Remove active class from all buttons
+                    categoryButtons.forEach(btn => btn.classList.remove('active'));
+                    
+                    // Add active class to clicked button
+                    this.classList.add('active');
+                    
+                    // Filter menu by category
+                    const category = this.getAttribute('data-category');
+                    filterMenuByCategory(category);
+                });
+            });
+        }
+
+        // Initialize the page
+        document.addEventListener('DOMContentLoaded', function() {
+            // Automatically load the local JSON file
+            loadExternalJSON('sukhsager.json');
+            
+            // Attach category filter listeners
+            attachCategoryFilterListeners();
+        });
+    </script>
+</body>
+</html>

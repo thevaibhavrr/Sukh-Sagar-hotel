@@ -1,0 +1,2920 @@
+[
+{
+  "_id": {
+    "$oid": "6910d966b808b5c0a7ead0f1"
+  },
+  "name": "दाल हरी मिर्च",
+  "price": 110,
+  "image": "https://vanitascorner.com/wp-content/uploads/2018/01/Dal-Hari-bhari-2022.jpg",
+  "category": "दाल",
+  "categoryId": {
+    "$oid": "6910d5d8015eaf2d3685b520"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 0,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:11:50.797Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:11:50.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6910d966b808b5c0a7ead0f4"
+  },
+  "name": "दाल फ्राय",
+  "price": 100,
+  "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/02/dal-fry.jpg",
+  "category": "दाल",
+  "categoryId": {
+    "$oid": "6910d5d8015eaf2d3685b520"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 1,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:11:50.946Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:11:50.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6910d967b808b5c0a7ead0f8"
+  },
+  "name": "दाल तड़का",
+  "price": 120,
+  "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/04/dal-tadka.jpg",
+  "category": "दाल",
+  "categoryId": {
+    "$oid": "6910d5d8015eaf2d3685b520"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 2,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:11:51.106Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:11:51.106Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6910d967b808b5c0a7ead0fb"
+  },
+  "name": "खट्टी मीठी",
+  "price": 120,
+  "image": "https://i.ytimg.com/vi/0odFgoch6FY/maxresdefault.jpg",
+  "category": "दाल",
+  "categoryId": {
+    "$oid": "6910d5d8015eaf2d3685b520"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 3,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:11:51.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:17:31.146Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910d967b808b5c0a7ead0fe"
+  },
+  "name": "दाल पालक",
+  "price": 120,
+  "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/11/dal-palak-recipe.jpg",
+  "category": "दाल",
+  "categoryId": {
+    "$oid": "6910d5d8015eaf2d3685b520"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 4,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:11:51.414Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:11:51.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6910d967b808b5c0a7ead101"
+  },
+  "name": "दाल स्नैक्स",
+  "price": 110,
+  "image": "https://cdn2.foodviva.com/static-content/food-images/snacks-recipes/moong-dal-vada-pakoda/moong-dal-vada-pakoda.jpg",
+  "category": "दाल",
+  "categoryId": {
+    "$oid": "6910d5d8015eaf2d3685b520"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 5,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:11:51.569Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:11:51.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6910d967b808b5c0a7ead104"
+  },
+  "name": "बटर दाल पनीर फ्राय",
+  "price": 140,
+  "image": "https://images.picxy.com/cache/2021/4/7/ac92af42e56efc4f1cc15acd23145779.jpg",
+  "category": "दाल",
+  "categoryId": {
+    "$oid": "6910d5d8015eaf2d3685b520"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 6,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:11:51.712Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:12:44.087Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910daa2744542f5a912225f"
+  },
+  "name": "पनीर लबाबदार (Paneer Lababdar)",
+  "price": 180,
+  "image": "https://i.ytimg.com/vi/ri7UiA7QJws/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDlsUJmbN8ZPI7FUExJY87YGxDBBQ",
+  "category": "पनीर",
+  "categoryId": {
+    "$oid": "6910d60e015eaf2d3685b530"
+  },
+  "spiceLevel": 3,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 0,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:17:06.270Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:21:12.035Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910daa2744542f5a9122263"
+  },
+  "name": "पनीर चटपटा (Paneer Chatpata)",
+  "price": 170,
+  "image": "https://www.chefajaychopra.com/assets/img/recipe/1-1666006926DhabaStyleChatpataPaneerwebp.webp",
+  "category": "पनीर",
+  "categoryId": {
+    "$oid": "6910d60e015eaf2d3685b530"
+  },
+  "spiceLevel": 4,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 1,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:17:06.487Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:19:18.913Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910daa2744542f5a9122266"
+  },
+  "name": "पालक पनीर (Palak Paneer)",
+  "price": 140,
+  "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/04/palak-paneer-recipe.jpg",
+  "category": "पनीर",
+  "categoryId": {
+    "$oid": "6910d60e015eaf2d3685b530"
+  },
+  "spiceLevel": 2,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 2,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:17:06.836Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:17:06.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6910daa3744542f5a9122269"
+  },
+  "name": "पनीर मसाला (Paneer Masala)",
+  "price": 160,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiT18dUvisl2SuGuGHE1akgz8Fg_KeK-XwBw&s",
+  "category": "पनीर",
+  "categoryId": {
+    "$oid": "6910d60e015eaf2d3685b530"
+  },
+  "spiceLevel": 3,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 3,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:17:07.082Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:20:40.414Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910daa3744542f5a912226c"
+  },
+  "name": "पनीर हांडी (Paneer Handi)",
+  "price": 180,
+  "image": "https://i.ytimg.com/vi/WQ5Da8QuNmk/maxresdefault.jpg",
+  "category": "पनीर",
+  "categoryId": {
+    "$oid": "6910d60e015eaf2d3685b530"
+  },
+  "spiceLevel": 3,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 4,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:17:07.283Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:21:55.361Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910daa3744542f5a912226f"
+  },
+  "name": "बटर पनीर मसाला (Butter Paneer Masala)",
+  "price": 170,
+  "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/07/paneer-butter-masala-recipe.webp",
+  "category": "पनीर",
+  "categoryId": {
+    "$oid": "6910d60e015eaf2d3685b530"
+  },
+  "spiceLevel": 2,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 5,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:17:07.523Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:22:15.861Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910daa3744542f5a9122272"
+  },
+  "name": "पनीर हक्का टका (Paneer Hakka Taka)",
+  "price": 170,
+  "image": "https://i.ytimg.com/vi/8hBfj3vnJGY/hqdefault.jpg",
+  "category": "पनीर",
+  "categoryId": {
+    "$oid": "6910d60e015eaf2d3685b530"
+  },
+  "spiceLevel": 4,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 6,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:17:07.784Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:21:36.447Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910daa4744542f5a9122275"
+  },
+  "name": "कढ़ाई पनीर (Kadhai Paneer)",
+  "price": 160,
+  "image": "https://i.ytimg.com/vi/RccxWa3_cq8/maxresdefault.jpg",
+  "category": "पनीर",
+  "categoryId": {
+    "$oid": "6910d60e015eaf2d3685b530"
+  },
+  "spiceLevel": 4,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 7,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:17:08.057Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:18:30.137Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910daa4744542f5a9122278"
+  },
+  "name": "शाही पनीर (Shahi Paneer)",
+  "price": 160,
+  "image": "https://i.ytimg.com/vi/G3-EASdBTOU/sddefault.jpg",
+  "category": "पनीर",
+  "categoryId": {
+    "$oid": "6910d60e015eaf2d3685b530"
+  },
+  "spiceLevel": 2,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 8,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:17:08.250Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:22:55.814Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910daa4744542f5a912227b"
+  },
+  "name": "पनीर 2 प्याज (Paneer Do Pyaza)",
+  "price": 170,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDHbvBvA5zXBZ9O8Q5OervTpJw4sXABCURXw&s",
+  "category": "पनीर",
+  "categoryId": {
+    "$oid": "6910d60e015eaf2d3685b530"
+  },
+  "spiceLevel": 3,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 9,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:17:08.413Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:18:57.760Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910daa4744542f5a912227e"
+  },
+  "name": "पनीर भुर्जी (Paneer Bhurji)",
+  "price": 190,
+  "image": "https://i.ytimg.com/vi/GrJBxbqXpzM/sddefault.jpg",
+  "category": "पनीर",
+  "categoryId": {
+    "$oid": "6910d60e015eaf2d3685b530"
+  },
+  "spiceLevel": 4,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 10,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:17:08.601Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:20:20.523Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910daa4744542f5a9122281"
+  },
+  "name": "पनीर टिक्का मसाला (Paneer Tikka Masala)",
+  "price": 180,
+  "image": "https://images.hindi.news18.com/ibnkhabar/uploads/2021/11/Paneer-Tikka-Masala-16366192294x3.jpg",
+  "category": "पनीर",
+  "categoryId": {
+    "$oid": "6910d60e015eaf2d3685b530"
+  },
+  "spiceLevel": 4,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 11,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:17:08.780Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:19:37.990Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910daa4744542f5a9122284"
+  },
+  "name": "पनीर तुफानी (Paneer Tufani)",
+  "price": 170,
+  "image": "https://i.ytimg.com/vi/8e1UNyHaD5c/maxresdefault.jpg",
+  "category": "पनीर",
+  "categoryId": {
+    "$oid": "6910d60e015eaf2d3685b530"
+  },
+  "spiceLevel": 5,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 12,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:17:08.977Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:19:58.055Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910daa5744542f5a9122287"
+  },
+  "name": "मटर पनीर (Matar Paneer)",
+  "price": 150,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1aiU-wkbKm8X5fdbiLMRmHgKIDf5ZqfLzZQ&s",
+  "category": "पनीर",
+  "categoryId": {
+    "$oid": "6910d60e015eaf2d3685b530"
+  },
+  "spiceLevel": 3,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 13,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:17:09.314Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:22:38.658Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910dd12fc598fc33df1c83c"
+  },
+  "name": "प्लेन रोटी (Plain Roti)",
+  "price": 10,
+  "image": "https://dy3rma73kowlp.cloudfront.net/uploads/2025/07/rumali-roti-ai-image.jpg",
+  "category": "रोटी",
+  "categoryId": {
+    "$oid": "6910d63b015eaf2d3685b538"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 0,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:27:30.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:35:55.205Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910dd12fc598fc33df1c83f"
+  },
+  "name": "बटर रोटी (Butter Roti)",
+  "price": 12,
+  "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/xed4q7ql5mgc7rjjnyfd",
+  "category": "रोटी",
+  "categoryId": {
+    "$oid": "6910d63b015eaf2d3685b538"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 1,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:27:30.338Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:36:19.522Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910dd12fc598fc33df1c843"
+  },
+  "name": "तवा रोटी (Tawa Roti)",
+  "price": 15,
+  "image": "https://img-global.cpcdn.com/recipes/f63f707b7ff8ac7f/400x400cq80/photo.jpg",
+  "category": "रोटी",
+  "categoryId": {
+    "$oid": "6910d63b015eaf2d3685b538"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 2,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:27:30.517Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:34:56.694Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910dd12fc598fc33df1c846"
+  },
+  "name": "तवा पराठा (Tawa Paratha)",
+  "price": 20,
+  "image": "https://india.amritsr.com/wp-content/uploads/2025/04/Tawa_Paratha_Recipe-7956.jpg",
+  "category": "पराठा",
+  "categoryId": {
+    "$oid": "6910d63b015eaf2d3685b538"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 3,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:27:30.698Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T09:02:35.473Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910dd12fc598fc33df1c849"
+  },
+  "name": "तंदूरी पराठा (Tandoori Paratha)",
+  "price": 30,
+  "image": "https://images.news18.com/ibnkhabar/uploads/2022/11/tandoori-paratha.jpg",
+  "category": "पराठा",
+  "categoryId": {
+    "$oid": "6910d63b015eaf2d3685b538"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 4,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:27:30.878Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T09:02:30.391Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910dd13fc598fc33df1c84c"
+  },
+  "name": "लच्छा पराठा (Lachha Paratha)",
+  "price": 30,
+  "image": "https://i.ytimg.com/vi/OGUDOcTJAt4/maxresdefault.jpg",
+  "category": "रोटी",
+  "categoryId": {
+    "$oid": "6910d63b015eaf2d3685b538"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 5,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:27:31.058Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:37:57.653Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910dd13fc598fc33df1c84f"
+  },
+  "name": "मक्का रोटी (Makka Roti)",
+  "price": 30,
+  "image": "https://i.ytimg.com/vi/ialqwXkaQl4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIfwnDlMK_PUo5Yjys2Ts3kCUwNg",
+  "category": "रोटी",
+  "categoryId": {
+    "$oid": "6910d63b015eaf2d3685b538"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 6,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:27:31.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:36:43.413Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910dd13fc598fc33df1c852"
+  },
+  "name": "मिस्सी रोटी (Missi Roti)",
+  "price": 40,
+  "image": "https://i.ytimg.com/vi/-ZK7Zgy1CGg/maxresdefault.jpg",
+  "category": "रोटी",
+  "categoryId": {
+    "$oid": "6910d63b015eaf2d3685b538"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 7,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:27:31.420Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:37:36.474Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910dd13fc598fc33df1c855"
+  },
+  "name": "प्लेन नान (Plain Naan)",
+  "price": 40,
+  "image": "https://i.ytimg.com/vi/jifN9xSLbHI/maxresdefault.jpg",
+  "category": "रोटी",
+  "categoryId": {
+    "$oid": "6910d63b015eaf2d3685b538"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 8,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:27:31.561Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:35:33.664Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910dd13fc598fc33df1c858"
+  },
+  "name": "मटर पराठा (Matar Paratha)",
+  "price": 40,
+  "image": "https://i.ytimg.com/vi/yDw62zsP9Ic/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC9P_LpxNACoEv-81Rnq6x-1r6yYQ",
+  "category": "रोटी",
+  "categoryId": {
+    "$oid": "6910d63b015eaf2d3685b538"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 9,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:27:31.776Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:37:00.625Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910dd13fc598fc33df1c85b"
+  },
+  "name": "आलू पराठा (Aloo Paratha)",
+  "price": 40,
+  "image": "https://www.livehindustan.com/lh-img/uploadimage/library/2023/03/10/16_9/16_9_6/aloo_paratha__1678412602.jpg",
+  "category": "पराठा",
+  "categoryId": {
+    "$oid": "6910d63b015eaf2d3685b538"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 10,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:27:31.957Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T09:02:10.932Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910dd14fc598fc33df1c85e"
+  },
+  "name": "ओनियन पराठा (Onion Paratha)",
+  "price": 40,
+  "image": "https://i.ytimg.com/vi/mzVY1J0yduY/maxresdefault.jpg",
+  "category": "पराठा",
+  "categoryId": {
+    "$oid": "6910d63b015eaf2d3685b538"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 11,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:27:32.137Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T09:02:19.026Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910dd14fc598fc33df1c861"
+  },
+  "name": "गोभी पराठा (Gobi Paratha)",
+  "price": 40,
+  "image": "https://i.ytimg.com/vi/OxGuWVKkFls/maxresdefault.jpg",
+  "category": "पराठा",
+  "categoryId": {
+    "$oid": "6910d63b015eaf2d3685b538"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 12,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:27:32.318Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T09:02:23.764Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910dd14fc598fc33df1c864"
+  },
+  "name": "मिक्स वेज (सैंच) पराठा (Mix Veg/Saench Paratha)",
+  "price": 40,
+  "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202203/maggi_masala_41-sixteen_nine.jpg",
+  "category": "रोटी",
+  "categoryId": {
+    "$oid": "6910d63b015eaf2d3685b538"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 13,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:27:32.500Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:37:18.242Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910dd14fc598fc33df1c867"
+  },
+  "name": "पनीर पराठा (Paneer Paratha)",
+  "price": 70,
+  "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/02/paneer-paratha-recipe.jpg",
+  "category": "पराठा",
+  "categoryId": {
+    "$oid": "6910d63b015eaf2d3685b538"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 14,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:27:32.677Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T09:02:41.853Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e03834ace7385fd20f11"
+  },
+  "name": "पापड़ रोस्टेड (Papad Roasted)",
+  "price": 10,
+  "image": "https://5.imimg.com/data5/ANDROID/Default/2022/6/QE/DE/RT/146678362/product-jpeg.jpg",
+  "category": "पापड़",
+  "categoryId": {
+    "$oid": "6910d6b2015eaf2d3685b548"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 10,
+  "displayOrder": 0,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:40:56.013Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:43:48.240Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e03834ace7385fd20f14"
+  },
+  "name": "पापड़ फ्राय (Papad Fry)",
+  "price": 20,
+  "image": "https://dy3rma73kowlp.cloudfront.net/uploads/2025/09/Fry-Papad-without-Oil.jpg",
+  "category": "पापड़",
+  "categoryId": {
+    "$oid": "6910d6b2015eaf2d3685b548"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 10,
+  "displayOrder": 1,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:40:56.336Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:42:48.217Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e03834ace7385fd20f18"
+  },
+  "name": "पापड़ फ्राय मसाला (Papad Fry Masala)",
+  "price": 30,
+  "image": "https://profusioncurry.com/wp-content/uploads/2021/09/Masala-papad-recipe-close-up-showing-delicious-appetizer-snack.jpg",
+  "category": "पापड़",
+  "categoryId": {
+    "$oid": "6910d6b2015eaf2d3685b548"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 10,
+  "displayOrder": 2,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:40:56.870Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:43:08.219Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e03934ace7385fd20f1b"
+  },
+  "name": "रोस्टेड मसाला पापड़ (Roasted Masala Papad)",
+  "price": 20,
+  "image": "https://img-global.cpcdn.com/recipes/627e5d9c06c08d99/240x320cq80/photo.jpg",
+  "category": "पापड़",
+  "categoryId": {
+    "$oid": "6910d6b2015eaf2d3685b548"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 10,
+  "displayOrder": 3,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:40:57.096Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:43:27.318Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e25230759fffa0fe4257"
+  },
+  "name": "प्लेन राइस हाफ (Plain Rice Half)",
+  "price": 60,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoBoAQkwz1K99Hf9hyIhSVSP6BhLIWxix_OQ&s",
+  "category": "चावल",
+  "categoryId": {
+    "$oid": "6910d68f015eaf2d3685b544"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 0,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:49:54.747Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T19:01:46.541Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e25230759fffa0fe425a"
+  },
+  "name": "प्लेन राइस फुल (Plain Rice Full)",
+  "price": 80,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLUMi8inD2J8HRTxS2V-XF22KT9ZMMNyA8rw&s",
+  "category": "चावल",
+  "categoryId": {
+    "$oid": "6910d68f015eaf2d3685b544"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 1,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:49:54.909Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T19:00:07.029Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e25330759fffa0fe425d"
+  },
+  "name": "जीरा राइस हाफ (Jeera Rice Half)",
+  "price": 90,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLUMi8inD2J8HRTxS2V-XF22KT9ZMMNyA8rw&s",
+  "category": "चावल",
+  "categoryId": {
+    "$oid": "6910d68f015eaf2d3685b544"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 2,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:49:55.109Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:59:47.730Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e25330759fffa0fe4261"
+  },
+  "name": "मसाला राइस (Masala Rice)",
+  "price": 90,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzB14a3OHWK1bdGQkgP2OfsbAc-Huw1CWyA&s",
+  "category": "चावल",
+  "categoryId": {
+    "$oid": "6910d68f015eaf2d3685b544"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 3,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:49:55.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T19:02:34.269Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e25330759fffa0fe4264"
+  },
+  "name": "दाल चावल रिवड़ी (Dal Chawal Rivdi)",
+  "price": 100,
+  "image": "https://i.ytimg.com/vi/8gJgnrxpKUw/sddefault.jpg",
+  "category": "चावल",
+  "categoryId": {
+    "$oid": "6910d68f015eaf2d3685b544"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 4,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:49:55.366Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T19:00:44.965Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e25330759fffa0fe426a"
+  },
+  "name": "वेज पुलाव (Veg Pulao)",
+  "price": 120,
+  "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/pulao-veg-pulao.webp",
+  "category": "चावल",
+  "categoryId": {
+    "$oid": "6910d68f015eaf2d3685b544"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 6,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:49:55.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T19:03:03.644Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e25330759fffa0fe426d"
+  },
+  "name": "मटर पुलाव (Matar Pulao)",
+  "price": 110,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6TQ2zmWClVLDXA7pVKvT5-0xxo3fY20HTYQ&s",
+  "category": "चावल",
+  "categoryId": {
+    "$oid": "6910d68f015eaf2d3685b544"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 7,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:49:55.829Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T19:02:16.710Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e25330759fffa0fe4270"
+  },
+  "name": "वेज बिरयानी (Veg Biryani)",
+  "price": 110,
+  "image": "https://images.news18.com/ibnkhabar/uploads/2022/06/biryani3.jpg?impolicy=website&width=640&height=480",
+  "category": "चावल",
+  "categoryId": {
+    "$oid": "6910d68f015eaf2d3685b544"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 8,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:49:55.979Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T19:05:46.595Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e25430759fffa0fe4273"
+  },
+  "name": "कश्मीरी पुलाव (Kashmiri Pulao)",
+  "price": 120,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HF4E5jgeJqtcm1v-SfMV7pAHVBUfKuRneQ&s",
+  "category": "चावल",
+  "categoryId": {
+    "$oid": "6910d68f015eaf2d3685b544"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 9,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:49:56.135Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:58:47.581Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e25430759fffa0fe4276"
+  },
+  "name": "जीरा राइस पनीर (Jeera Rice Paneer)",
+  "price": 120,
+  "image": "https://i.ytimg.com/vi/QribZd7Rrok/maxresdefault.jpg",
+  "category": "चावल",
+  "categoryId": {
+    "$oid": "6910d68f015eaf2d3685b544"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 10,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:49:56.264Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T18:59:11.692Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e25430759fffa0fe4279"
+  },
+  "name": "पनीर मटर पुलाव (Paneer Matar Pulao)",
+  "price": 130,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDq4OX7Tkq4j4uF1eAPTE0l3JBUa5ne8S_8Q&s",
+  "category": "चावल",
+  "categoryId": {
+    "$oid": "6910d68f015eaf2d3685b544"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 11,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T18:49:56.422Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T19:01:19.121Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e8599c73c5fc48613dbf"
+  },
+  "name": "प्लेन पालक (Plain Palak)",
+  "price": 100,
+  "image": "https://vegecravings.com/wp-content/uploads/2020/02/Arbi-Ki-Sabzi-Recipe-Step-By-Step-Instructions-scaled.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 0,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T19:15:37.905Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T19:15:37.905Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6910e85a9c73c5fc48613dc2"
+  },
+  "name": "आलू पालक (Aloo Palak)",
+  "price": 110,
+  "image": "https://vegecravings.com/wp-content/uploads/2020/02/Arbi-Ki-Sabzi-Recipe-Step-By-Step-Instructions-scaled.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 1,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T19:15:38.067Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T19:15:38.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6910e85a9c73c5fc48613dc5"
+  },
+  "name": "मटर मसाला (Matar Masala)",
+  "price": 110,
+  "image": "https://i.ytimg.com/vi/zTSyiWWZhH4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCCfLtw2lh2_elS5jwsUEzZmgHGIg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 2,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T19:15:38.202Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:20:11.948Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e85a9c73c5fc48613dc9"
+  },
+  "name": "गोभी मटर (Gobi Matar)",
+  "price": 120,
+  "image": "https://i.ytimg.com/vi/NBYmV2DOsx4/maxresdefault.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 3,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T19:15:38.355Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:21:22.474Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e85a9c73c5fc48613dcc"
+  },
+  "name": "आलू गोभी (Aloo Gobi)",
+  "price": 120,
+  "image": "https://images.news18.com/ibnkhabar/uploads/2023/11/aloo-gobhi-sabji-2023-11-bbd7ce4e05db01b021d8428621b9808c.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 4,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T19:15:38.490Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:18:10.065Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e85a9c73c5fc48613dd2"
+  },
+  "name": "आलू मटर टमाटर (Aloo Matar Tamatar)",
+  "price": 120,
+  "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Punjabi-Aloo-Matar.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 6,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T19:15:38.882Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:21:49.390Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e85b9c73c5fc48613dd5"
+  },
+  "name": "आलू शिमला (Aloo Shimla)",
+  "price": 120,
+  "image": "https://vegecravings.com/wp-content/uploads/2020/02/Arbi-Ki-Sabzi-Recipe-Step-By-Step-Instructions-scaled.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 7,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T19:15:39.006Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T19:15:39.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6910e85b9c73c5fc48613dd8"
+  },
+  "name": "भिंडी मसाला (Bhindi Masala)",
+  "price": 110,
+  "image": "https://i.ytimg.com/vi/QepbD8TOQoY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLClTexDMTvdBItCaD9CUABVhYCUbA",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 8,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T19:15:39.167Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:19:51.279Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e85b9c73c5fc48613ddb"
+  },
+  "name": "भिंडी कुरकुरी (Bhindi Kurkuri)",
+  "price": 120,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr6LSaLriqtfupc7Z5_3vvk_lGW92A891aOw&s",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 9,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T19:15:39.326Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:20:29.395Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e85b9c73c5fc48613dde"
+  },
+  "name": "भिंडी 2 प्याज़ (Bhindi Do Pyaz)",
+  "price": 120,
+  "image": "https://vegecravings.com/wp-content/uploads/2020/02/Arbi-Ki-Sabzi-Recipe-Step-By-Step-Instructions-scaled.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 10,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T19:15:39.499Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-09T19:15:39.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6910e85b9c73c5fc48613de1"
+  },
+  "name": "चना मसाला (Chana Masala)",
+  "price": 110,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRezHGBuez2HbnRa6UrxAXixEAVCHEzcVKSpw&s",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 11,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T19:15:39.639Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:20:51.940Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e85b9c73c5fc48613de4"
+  },
+  "name": "चना पनीर मसाला (Chana Paneer Masala)",
+  "price": 140,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy01O_QqjvJq1Dpu_kkG9yLrmRmz3Un4vrvg&s",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 12,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T19:15:39.781Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:34:01.418Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e85b9c73c5fc48613de7"
+  },
+  "name": "छोले टमाटर (Chole Tamatar)",
+  "price": 110,
+  "image": "https://i.ytimg.com/vi/_OUjRh5KEQQ/maxresdefault.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 13,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T19:15:39.985Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:34:20.305Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e85c9c73c5fc48613dea"
+  },
+  "name": "सेव टमाटर (Sev Tamatar)",
+  "price": 100,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrxE065IWEKWzKBNbx5bcRDfqRbz9W_SEzjQ&s",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 14,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T19:15:40.124Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:18:44.359Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e85c9c73c5fc48613ded"
+  },
+  "name": "सेव मसाला (Sev Masala)",
+  "price": 100,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUSGjEw1IeS3kKLFsEaU5yx3mvq6UZKrTFkA&s",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 15,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T19:15:40.311Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:19:24.961Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e85c9c73c5fc48613df0"
+  },
+  "name": "सेव भाजी दूध में (Sev Bhaji Doodh Me)",
+  "price": 130,
+  "image": "https://i.ytimg.com/vi/b-k30AvfAdk/mqdefault.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 16,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T19:15:40.460Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:19:06.623Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6910e85c9c73c5fc48613df3"
+  },
+  "name": "सेव पनीर मसाला (Sev Paneer Masala)",
+  "price": 140,
+  "image": "https://i.ytimg.com/vi/c7FEUQtdc18/hqdefault.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 17,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-09T19:15:40.604Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:37:53.189Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6911789521c749ab2d625538"
+  },
+  "name": "आलू जीरा स्पेशल (Aloo Jeera Special)",
+  "price": 130,
+  "image": "https://vegecravings.com/wp-content/uploads/2020/02/Arbi-Ki-Sabzi-Recipe-Step-By-Step-Instructions-scaled.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 18,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T05:31:01.627Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:31:01.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911789621c749ab2d625547"
+  },
+  "name": "बेसन गट्टा मसाला (Besan Gatta Masala)",
+  "price": 110,
+  "image": "https://i.ytimg.com/vi/zMSnjR08468/maxresdefault.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 3,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 19,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T05:31:02.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:35:47.724Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6911789621c749ab2d62554a"
+  },
+  "name": "मिक्स वेज (Mix Veg)",
+  "price": 120,
+  "image": "https://vegecravings.com/wp-content/uploads/2020/02/Arbi-Ki-Sabzi-Recipe-Step-By-Step-Instructions-scaled.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 2,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 20,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T05:31:02.869Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:31:40.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911789721c749ab2d62554d"
+  },
+  "name": "मिक्स वेज पनीर (Mix Veg Paneer)",
+  "price": 140,
+  "image": "https://i.ytimg.com/vi/EIxbyQ1z2gk/maxresdefault.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 3,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 21,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T05:31:03.028Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:36:12.123Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6911789721c749ab2d625550"
+  },
+  "name": "आलू 2 प्याज़ (Aloo Do Pyaz)",
+  "price": 110,
+  "image": "https://vegecravings.com/wp-content/uploads/2020/02/Arbi-Ki-Sabzi-Recipe-Step-By-Step-Instructions-scaled.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 2,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 22,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T05:31:03.178Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:31:41.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911789721c749ab2d625553"
+  },
+  "name": "वेज कोल्हापुरी (Veg Kolhapuri)",
+  "price": 120,
+  "image": "https://myfoodstory.com/wp-content/uploads/2022/04/Veg-Kolhapuri-4.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 5,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 23,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T05:31:03.344Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:36:32.861Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6911789721c749ab2d625556"
+  },
+  "name": "स्टफ टमाटर (Stuffed Tamatar)",
+  "price": 120,
+  "image": "https://vegecravings.com/wp-content/uploads/2020/02/Arbi-Ki-Sabzi-Recipe-Step-By-Step-Instructions-scaled.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 2,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 24,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T05:31:03.497Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:31:41.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911789721c749ab2d625559"
+  },
+  "name": "वेज हांडी (Veg Handi)",
+  "price": 120,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwfQC_jhpV3F8HSREv8EHHB9WX9_oXZpLHiA&s",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 3,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 25,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T05:31:03.657Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:37:25.466Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6911789721c749ab2d62555c"
+  },
+  "name": "वेज हंगामा (Veg Hungama)",
+  "price": 120,
+  "image": "https://i.ytimg.com/vi/Ki-EPhrB9e8/sddefault.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 3,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 26,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T05:31:03.899Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:37:08.067Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6911789821c749ab2d62555f"
+  },
+  "name": "वेज हैदराबादी (Veg Hyderabadi)",
+  "price": 130,
+  "image": "https://vegecravings.com/wp-content/uploads/2020/02/Arbi-Ki-Sabzi-Recipe-Step-By-Step-Instructions-scaled.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 5,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 27,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T05:31:04.111Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:31:42.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911789821c749ab2d625562"
+  },
+  "name": "दम आलू (Dum Aloo)",
+  "price": 130,
+  "image": "https://i.ytimg.com/vi/VylXmj9L968/maxresdefault.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 2,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 28,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T05:31:04.333Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:35:25.560Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6911789821c749ab2d625565"
+  },
+  "name": "वेज जयपुरी (Veg Jaipuri)",
+  "price": 140,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpS7vSyhMWbrahteDw-2HIsFcRa1VdhDiPGQ&s",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 3,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 29,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T05:31:04.495Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:36:51.401Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6911789821c749ab2d625568"
+  },
+  "name": "टमाटर चटनी स्पेशल (Tamatar Chutney Special)",
+  "price": 110,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAYyFJNbrhEu2Q0f2oO0Ij_fZFN-ZS4ZwgkA&s",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 3,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 30,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T05:31:04.655Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:35:01.334Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "6911789821c749ab2d62556b"
+  },
+  "name": "आलू छोले (Aloo Chole)",
+  "price": 110,
+  "image": "https://vegecravings.com/wp-content/uploads/2020/02/Arbi-Ki-Sabzi-Recipe-Step-By-Step-Instructions-scaled.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 3,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 31,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T05:31:04.804Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:31:42.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911789821c749ab2d62556e"
+  },
+  "name": "आलू गोभी टमाटर (Aloo Gobi Tamatar)",
+  "price": 120,
+  "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/10/aloo-gobi-matar-recipe-1-1-500x500.jpg",
+  "category": "सब्जी",
+  "categoryId": {
+    "$oid": "6910d6fb015eaf2d3685b554"
+  },
+  "spiceLevel": 2,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 32,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T05:31:04.939Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:33:33.667Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "69117d3d0ba187796d110c09"
+  },
+  "name": "तंदूरी रोटी (tandoori roti)",
+  "description": "",
+  "price": 10,
+  "image": "https://cdn.shopify.com/s/files/1/0551/8009/9722/files/4_b1ca596e-51a9-4fae-b067-071a80f26a14_480x480.png?v=1716792199",
+  "category": "रोटी",
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 0,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T05:50:53.084Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:50:53.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69117d5e0ba187796d110c0e"
+  },
+  "name": "तंदूरी रोटी butter (tandoori roti butter)",
+  "description": "",
+  "price": 15,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXdkYArMPmG8TJN6KB21AKPndjCzCb-QigQ&s",
+  "category": "रोटी",
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 0,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T05:51:26.076Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T05:55:49.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911a10b15b5c9cff390f548"
+  },
+  "name": "प्लेन छाछ स्पेशल (Plain Chaas Special)",
+  "price": 20,
+  "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/05/chaas-recipe-1.jpg",
+  "category": "रायता",
+  "categoryId": {
+    "$oid": "6910d6e2015eaf2d3685b550"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 0,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T08:23:39.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T08:23:39.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911a10b15b5c9cff390f54b"
+  },
+  "name": "नमकीन छाछ (Namkeen Chaas)",
+  "price": 20,
+  "image": "https://www.cookwithmanali.com/wp-content/uploads/2020/05/Indian-Chaas-Buttermilk.jpg",
+  "category": "रायता",
+  "categoryId": {
+    "$oid": "6910d6e2015eaf2d3685b550"
+  },
+  "spiceLevel": 2,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 1,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T08:23:39.844Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T08:23:39.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911a10c15b5c9cff390f54e"
+  },
+  "name": "मीठी छाछ (Meethi Chaas)",
+  "price": 30,
+  "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Priya_Suresh/Meethi_Buttermilk.jpg",
+  "category": "रायता",
+  "categoryId": {
+    "$oid": "6910d6e2015eaf2d3685b550"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 2,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T08:23:40.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T08:23:40.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911a10c15b5c9cff390f551"
+  },
+  "name": "सादा दही (Sada Dahi)",
+  "price": 60,
+  "image": "https://static.toiimg.com/photo/84787467.cms",
+  "category": "रायता",
+  "categoryId": {
+    "$oid": "6910d6e2015eaf2d3685b550"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 3,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T08:23:40.244Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T08:23:40.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911a10c15b5c9cff390f555"
+  },
+  "name": "मसाला दही (Masala Dahi)",
+  "price": 70,
+  "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2019/06/masala-curd-recipe.jpg",
+  "category": "रायता",
+  "categoryId": {
+    "$oid": "6910d6e2015eaf2d3685b550"
+  },
+  "spiceLevel": 2,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 4,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T08:23:40.424Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T08:23:40.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911a10c15b5c9cff390f558"
+  },
+  "name": "दही फ्राय (Dahi Fry)",
+  "price": 90,
+  "image": "https://www.spiceupthecurry.com/wp-content/uploads/2021/07/dahi-tadka-1.jpg",
+  "category": "रायता",
+  "categoryId": {
+    "$oid": "6910d6e2015eaf2d3685b550"
+  },
+  "spiceLevel": 3,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 5,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T08:23:40.617Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T08:23:40.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911a10c15b5c9cff390f55b"
+  },
+  "name": "बूंदी रायता (Boondi Raita)",
+  "price": 90,
+  "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/05/boondi-raita-recipe-2a.jpg",
+  "category": "रायता",
+  "categoryId": {
+    "$oid": "6910d6e2015eaf2d3685b550"
+  },
+  "spiceLevel": 2,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 6,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T08:23:40.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T08:23:40.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911a10c15b5c9cff390f55e"
+  },
+  "name": "फ्रूट रायता (Fruit Raita)",
+  "price": 110,
+  "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/07/fruit-raita-recipe.jpg",
+  "category": "रायता",
+  "categoryId": {
+    "$oid": "6910d6e2015eaf2d3685b550"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 7,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T08:23:40.990Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T08:23:40.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911a10d15b5c9cff390f561"
+  },
+  "name": "मिक्स रायता (Mix Raita)",
+  "price": 110,
+  "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/05/mixed-vegetable-raita.jpg",
+  "category": "रायता",
+  "categoryId": {
+    "$oid": "6910d6e2015eaf2d3685b550"
+  },
+  "spiceLevel": 2,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 8,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T08:23:41.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T08:23:41.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911a833d6a28314fb21a4cd"
+  },
+  "name": "ओनियन सलाद (Onion Salad)",
+  "price": 20,
+  "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/02/onion-salad-recipe-1.jpg",
+  "category": "सलाद",
+  "categoryId": {
+    "$oid": "6910d629015eaf2d3685b534"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 0,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T08:54:11.805Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T08:54:11.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911a834d6a28314fb21a4d1"
+  },
+  "name": "टमाटर सलाद (Tomato Salad)",
+  "price": 30,
+  "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/07/tomato-salad-recipe-1.jpg",
+  "category": "सलाद",
+  "categoryId": {
+    "$oid": "6910d629015eaf2d3685b534"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 0,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T08:54:12.010Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T08:54:12.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911a834d6a28314fb21a4d4"
+  },
+  "name": "ककड़ी/ककुंबर सलाद (Cucumber Salad)",
+  "price": 40,
+  "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/03/cucumber-salad-recipe.jpg",
+  "category": "सलाद",
+  "categoryId": {
+    "$oid": "6910d629015eaf2d3685b534"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 0,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T08:54:12.244Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T08:54:12.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911a834d6a28314fb21a4d7"
+  },
+  "name": "ग्रीन सलाद (Green Salad)",
+  "price": 40,
+  "image": "https://www.cookwithmanali.com/wp-content/uploads/2021/03/Indian-Green-Salad.jpg",
+  "category": "सलाद",
+  "categoryId": {
+    "$oid": "6910d629015eaf2d3685b534"
+  },
+  "spiceLevel": 1,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 15,
+  "displayOrder": 0,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T08:54:12.465Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T08:54:12.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911a9c603142abdd0b0cc0b"
+  },
+  "name": "काजू करी (Kaju Curry)",
+  "price": 180,
+  "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/06/kaju-curry-recipe-1.jpg",
+  "category": "करी",
+  "categoryId": {
+    "$oid": "6910d6c7015eaf2d3685b54c"
+  },
+  "spiceLevel": 2,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 20,
+  "displayOrder": 0,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T09:00:54.342Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T09:01:21.267Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911a9c603142abdd0b0cc0f"
+  },
+  "name": "काजू पनीर (Kaju Paneer)",
+  "price": 190,
+  "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/kaju-paneer-curry.jpg",
+  "category": "करी",
+  "categoryId": {
+    "$oid": "6910d6c7015eaf2d3685b54c"
+  },
+  "spiceLevel": 3,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 20,
+  "displayOrder": 1,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T09:00:54.684Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T09:01:21.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911a9c603142abdd0b0cc12"
+  },
+  "name": "मसाला (Masala)",
+  "price": 190,
+  "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2019/01/mixed-vegetable-masala-1.jpg",
+  "category": "करी",
+  "categoryId": {
+    "$oid": "6910d6c7015eaf2d3685b54c"
+  },
+  "spiceLevel": 5,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 20,
+  "displayOrder": 2,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T09:00:54.865Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T09:01:21.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911a9c703142abdd0b0cc15"
+  },
+  "name": "काजू मसाला (Kaju Masala)",
+  "price": 200,
+  "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/02/kaju-masala-recipe-1.jpg",
+  "category": "करी",
+  "categoryId": {
+    "$oid": "6910d6c7015eaf2d3685b54c"
+  },
+  "spiceLevel": 3,
+  "isAvailable": true,
+  "isVeg": true,
+  "preparationTime": 20,
+  "displayOrder": 3,
+  "restaurantId": {
+    "$oid": "6910d45e015eaf2d3685b4a2"
+  },
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T09:00:55.042Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T09:01:21.800Z"
+  },
+  "__v": 0
+}]
